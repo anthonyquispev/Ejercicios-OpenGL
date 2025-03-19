@@ -29,7 +29,7 @@ Ejercicios resueltos del curso "Computación visual"
 
 - Ejercicio 5
 
-[Código fuente](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio05_Codigo.cpp)
+&nbsp;[Código fuente](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio05_Codigo.cpp)
 
 https://github.com/user-attachments/assets/b9887883-b28e-42f1-9e1b-947d1c0ca3f1
 
