@@ -19,21 +19,21 @@ Ejercicios resueltos del curso "Computación visual"
 <details><summary><b>Laboratorio 1</b></summary>
 <p>
 
-- Ejercicio 1
+- Ejercicio 1 [Código fuente](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio01_Codigo.cpp)
 
-[Código fuente](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio01_Codigo.cpp)
 
-<p align="center">
+
+<div align="center">
   <img src="https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio01_Figura.PNG">
-</p>
+</div>
 
 - Ejercicio 2
   
 [Código fuente](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio02_Codigo.cpp)
 
-<p align="center">
+<div align="center">
   <img src="https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio02_Figura.PNG">
-</p>
+</div>
 
 - Ejercicio 3
 
@@ -62,13 +62,13 @@ https://github.com/user-attachments/assets/b9887883-b28e-42f1-9e1b-947d1c0ca3f1
 [Código fuente](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio06_Codigo.cpp)
 
 <div align="center">
-    <img width="250" src="https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio06_Figura01.PNG">
-    <img width="250" src="https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio06_Figura02.PNG">
+    <img width="300" src="https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio06_Figura01.PNG">
+    <img width="300" src="https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio06_Figura02.PNG">
 </div>
 
 <div align="center">
-    <img width="250" src="https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio06_Figura03.PNG">
-    <img width="250" src="https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio06_Figura04.PNG">
+    <img width="300" src="https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio06_Figura03.PNG">
+    <img width="300" src="https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio06_Figura04.PNG">
 </div>
 
 - Ejercicio 7
