@@ -21,7 +21,7 @@ Ejercicios resueltos del curso "Computación visual"
 
 - Ejercicio 5
 - 
-[Ver video](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio05_Figura.mp4)
+https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio05_Figura.mp4
   
 https://github.com/user-attachments/assets/9db02565-4a20-40f0-a758-53d7a57d5111
 
