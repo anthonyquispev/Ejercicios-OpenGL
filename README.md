@@ -19,11 +19,19 @@ Ejercicios resueltos del curso "Computación visual"
 <details><summary><b>Laboratorio 1</b></summary>
 <p>
 
+- Ejercicio 1
+
+- Ejercicio 2
+
+- Ejercicio 3
+
+- Ejercicio 4
+
 - Ejercicio 5
-- 
-https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio05_Figura.mp4
-  
-https://github.com/user-attachments/assets/9db02565-4a20-40f0-a758-53d7a57d5111
+
+[Código fuente](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio05_Codigo.cpp)
+
+https://github.com/user-attachments/assets/b9887883-b28e-42f1-9e1b-947d1c0ca3f1
 
 </p>
 </details>
