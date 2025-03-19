@@ -19,9 +19,9 @@ Ejercicios resueltos del curso "Computación visual"
 <details><summary><b>Laboratorio 1</b></summary>
 <p>
 
-- Ejercicio 1 [Código fuente](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio01_Codigo.cpp)
+- Ejercicio 1 
 
-
+  - [Código fuente](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio01_Codigo.cpp)
 
 <div align="center">
   <img src="https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio01_Figura.PNG">
