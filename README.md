@@ -21,6 +21,12 @@ Ejercicios resueltos del curso "Computación visual"
 
 - Ejercicio 1
 
+[Código fuente](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio01_Codigo.cpp)
+
+<p align="center">
+  <img src="https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio01_Figura.PNG">
+</p>
+
 - Ejercicio 2
 
 - Ejercicio 3
@@ -29,7 +35,7 @@ Ejercicios resueltos del curso "Computación visual"
 
 - Ejercicio 5
 
-[&nbsp;Código fuente](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio05_Codigo.cpp)
+[Código fuente](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio05_Codigo.cpp)
 
 https://github.com/user-attachments/assets/b9887883-b28e-42f1-9e1b-947d1c0ca3f1
 
