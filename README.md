@@ -21,7 +21,7 @@ Ejercicios resueltos del curso "Computación visual"
 
 - Ejercicio 1 
 
-  - [Código fuente](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio01_Codigo.cpp)
+  - [Código](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio01_Codigo.cpp)
 
 <div align="center">
   <img src="https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio01_Figura.PNG">
@@ -29,7 +29,7 @@ Ejercicios resueltos del curso "Computación visual"
 
 - Ejercicio 2
   
-[Código fuente](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio02_Codigo.cpp)
+  - [Código](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio02_Codigo.cpp)
 
 <div align="center">
   <img src="https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio02_Figura.PNG">
@@ -37,7 +37,7 @@ Ejercicios resueltos del curso "Computación visual"
 
 - Ejercicio 3
 
-[Código fuente](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio03_Codigo.cpp)
+  - [Código](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio03_Codigo.cpp)
 
 <div align="center">
   <img src="https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio03_Figura.PNG">
@@ -45,7 +45,7 @@ Ejercicios resueltos del curso "Computación visual"
 
 - Ejercicio 4
   
-[Código fuente](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio04_Codigo.cpp)
+  - [Código](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio04_Codigo.cpp)
 
 <div align="center">
   <img src="https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio04_Figura.PNG">
@@ -53,13 +53,13 @@ Ejercicios resueltos del curso "Computación visual"
 
 - Ejercicio 5
 
-[Código fuente](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio05_Codigo.cpp)
+  - [Código](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio05_Codigo.cpp)
 
 https://github.com/user-attachments/assets/b9887883-b28e-42f1-9e1b-947d1c0ca3f1
 
 - Ejercicio 6
   
-[Código fuente](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio06_Codigo.cpp)
+  - [Código](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio06_Codigo.cpp)
 
 <div align="center">
     <img width="300" src="https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio06_Figura01.PNG">
@@ -73,7 +73,7 @@ https://github.com/user-attachments/assets/b9887883-b28e-42f1-9e1b-947d1c0ca3f1
 
 - Ejercicio 7
   
-[Código fuente](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio07_Codigo.cpp)
+  - [Código](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio07_Codigo.cpp)
 
 <div align="center">
   <img src="https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio01/Ejercicio07_Figura.PNG">
