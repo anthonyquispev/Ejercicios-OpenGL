@@ -85,9 +85,13 @@ https://github.com/user-attachments/assets/b9887883-b28e-42f1-9e1b-947d1c0ca3f1
 <details><summary><b>Laboratorio 2</b></summary>
 <p>
 
-- Ejercicio 2
+- Ejercicio 1
 
-![Ej05_](https://github.com/user-attachments/assets/5b29dfaf-3ba8-4882-8ece-9c2f6df76d6b)
+  - [Código](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio02/Ejercicio02_Codigo.cpp)
+
+<div align="center">
+  <img src="https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio02/Ejercicio02_Figura.PNG">
+</div>
 
 </p>
 </details>
