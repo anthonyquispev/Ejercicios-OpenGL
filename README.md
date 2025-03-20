@@ -152,11 +152,23 @@ https://github.com/user-attachments/assets/f27da529-8ddc-495b-936a-7390dbfbe54a
 
 https://github.com/user-attachments/assets/67e0e0e7-379b-43be-8455-20872eecee6e
 
-- Ejercicio 2
+- Ejercicio 3
 
-  - [Código](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio03/Ejercicio02_Codigo.cpp)
+  - [Código](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio03/Ejercicio03_Codigo.cpp)
 
-https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio03/Ejercicio02_Figura.cpp
+https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio03/Ejercicio02_Figura.mp4
+
+- Ejercicio 4
+
+  - [Código](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio03/Ejercicio04_Codigo.cpp)
+
+- Ejercicio 5
+
+  - [Código](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio03/Ejercicio05_Codigo.cpp)
+
+- Ejercicio 6
+
+  - [Código](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio03/Ejercicio06_Codigo.cpp)
 
 </p>
 </details>
