@@ -140,7 +140,26 @@ https://github.com/user-attachments/assets/b9887883-b28e-42f1-9e1b-947d1c0ca3f1
 </p>
 </details>
 
+<details><summary><b>Laboratorio 2</b></summary>
+<p>
+- Ejercicio 1
 
+  - [Código](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio03/Ejercicio01_Codigo.cpp)
+
+https://github.com/user-attachments/assets/30bab18e-2124-46be-8455-eca2a6e9e692
+
+https://github.com/user-attachments/assets/f27da529-8ddc-495b-936a-7390dbfbe54a
+
+https://github.com/user-attachments/assets/67e0e0e7-379b-43be-8455-20872eecee6e
+
+- Ejercicio 2
+
+  - [Código](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio03/Ejercicio02_Codigo.cpp)
+
+https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio03/Ejercicio02_Figura.cpp
+
+</p>
+</details>
 
 ## Profesor
 
