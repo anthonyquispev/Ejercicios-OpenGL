@@ -123,18 +123,18 @@ https://github.com/user-attachments/assets/b9887883-b28e-42f1-9e1b-947d1c0ca3f1
   - [Código](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio02/Ejercicio05_Codigo.cpp)
 
 <div align="center">
-    <img width="300" src="https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio02/Ejercicio05_Figura01_01.PNG">
-    <img width="300" src="https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio02/Ejercicio05_Figura01_02.PNG">
+    <img width="200" src="https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio02/Ejercicio05_Figura01_01.PNG">
+    <img width="400" src="https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio02/Ejercicio05_Figura01_02.PNG">
 </div>
 
 <div align="center">
-    <img width="300" src="https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio02/Ejercicio05_Figura02_01.PNG">
-    <img width="300" src="https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio02/Ejercicio05_Figura02_02.PNG">
+    <img width="200" src="https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio02/Ejercicio05_Figura02_01.PNG">
+    <img width="400" src="https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio02/Ejercicio05_Figura02_02.PNG">
 </div>
 
 <div align="center">
-    <img width="300" src="https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio02/Ejercicio05_Figura03_01.PNG">
-    <img width="300" src="https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio02/Ejercicio05_Figura03_02.PNG">
+    <img width="200" src="https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio02/Ejercicio05_Figura03_01.PNG">
+    <img width="400" src="https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio02/Ejercicio05_Figura03_02.PNG">
 </div>
 
 </p>
