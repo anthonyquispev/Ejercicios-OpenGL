@@ -187,6 +187,21 @@ https://github.com/user-attachments/assets/32a18284-2250-4be9-a6b7-db2295f99520
 </p>
 </details>
 
+<details><summary><b>Laboratorio 4</b></summary>
+<p>
+</p>
+</details>
+
+<details><summary><b>Laboratorio 5</b></summary>
+<p>
+</p>
+</details>
+
+<details><summary><b>Laboratorio 6</b></summary>
+<p>
+</p>
+</details>
+
 ## Profesor
 
 * Avendaño Quiroz, Johnny Roberto
