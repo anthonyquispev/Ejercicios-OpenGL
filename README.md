@@ -142,6 +142,7 @@ https://github.com/user-attachments/assets/b9887883-b28e-42f1-9e1b-947d1c0ca3f1
 
 <details><summary><b>Laboratorio 3</b></summary>
 <p>
+
 - Ejercicio 1
 
   - [Código](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio03/Ejercicio01_Codigo.cpp)
