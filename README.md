@@ -140,7 +140,7 @@ https://github.com/user-attachments/assets/b9887883-b28e-42f1-9e1b-947d1c0ca3f1
 </p>
 </details>
 
-<details><summary><b>Laboratorio 2</b></summary>
+<details><summary><b>Laboratorio 3</b></summary>
 <p>
 - Ejercicio 1
 
@@ -152,23 +152,36 @@ https://github.com/user-attachments/assets/f27da529-8ddc-495b-936a-7390dbfbe54a
 
 https://github.com/user-attachments/assets/67e0e0e7-379b-43be-8455-20872eecee6e
 
+-Ejercicio 2
+
+  - [Código](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio03/Ejercicio02_Codigo.cpp)
+
+https://github.com/user-attachments/assets/64aea969-866d-4f37-ae9c-554bfcc2542f
+
 - Ejercicio 3
 
   - [Código](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio03/Ejercicio03_Codigo.cpp)
 
-https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio03/Ejercicio02_Figura.mp4
+https://github.com/user-attachments/assets/40464b47-144b-4aa4-b7b6-374550b1dfd4
 
 - Ejercicio 4
 
   - [Código](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio03/Ejercicio04_Codigo.cpp)
 
+https://github.com/user-attachments/assets/bf46e538-a94e-477f-947e-cea5d1f9361c
+
 - Ejercicio 5
 
   - [Código](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio03/Ejercicio05_Codigo.cpp)
 
+https://github.com/user-attachments/assets/406f8eb6-097c-4045-96b4-a7b19d535ced
+
 - Ejercicio 6
 
   - [Código](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio03/Ejercicio06_Codigo.cpp)
+
+https://github.com/user-attachments/assets/32a18284-2250-4be9-a6b7-db2295f99520
+
 
 </p>
 </details>
