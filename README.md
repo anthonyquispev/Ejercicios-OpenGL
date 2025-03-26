@@ -189,16 +189,67 @@ https://github.com/user-attachments/assets/32a18284-2250-4be9-a6b7-db2295f99520
 
 <details><summary><b>Laboratorio 4</b></summary>
 <p>
+
+- Práctica Calificada
+
+  - [Código](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio04/PracticaCalificada_Codigo.cpp)
+
+https://github.com/user-attachments/assets/e2bf4308-0f7e-4267-9273-61b08863a6eb
+
+- Ejercicio 1
+
+  - [Código](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio04/Ejercicio01_Codigo.cpp)
+
+https://github.com/user-attachments/assets/a4660b0a-71a6-406c-926e-5b927ba9aa5d
+
+- Ejercicio 2
+
+  - [Código](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio04/Ejercicio02_Codigo.cpp)
+
+https://github.com/user-attachments/assets/47313212-da1a-4b0f-bf07-cb7972786799
+ 
+- Ejercicio 3
+
+  - [Código](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio04/Ejercicio03_Codigo.cpp)
+
+https://github.com/user-attachments/assets/53deee3d-cc3d-4a63-9b66-eb05161571ab
+
+- Ejercicio 4
+
+  - [Código](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio04/Ejercicio04_Codigo.cpp)
+
+https://github.com/user-attachments/assets/75a5a4ec-a70c-4100-809c-1dbafa177087
+
+- Ejercicio 5
+
+  - [Código](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio04/Ejercicio05_Codigo.cpp)
+
+https://github.com/user-attachments/assets/1d153086-24d5-4d57-b610-75601b984656
+
 </p>
 </details>
 
 <details><summary><b>Laboratorio 5</b></summary>
 <p>
+  
+- Ejercicio 1
+
+  - [Código](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio05/Ejercicio01_Codigo.cpp)
+
+https://github.com/user-attachments/assets/ef42ec5a-9895-4020-bebc-7a6eee2a2146
+
 </p>
 </details>
 
 <details><summary><b>Laboratorio 6</b></summary>
 <p>
+  
+- Ejercicio 1
+
+  - [Código](https://github.com/anthonyquispev/Ejercicios-OpenGL/blob/master/Laboratorio06/Ejercicio01_Codigo.cpp)
+
+https://github.com/user-attachments/assets/f7a715d7-b948-4db2-9a34-cb9bdf0c7d24
+
 </p>
 </details>
 
